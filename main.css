@@ -37,9 +37,7 @@ body{
     transition: var(--transition);
     overflow: hidden;
 }
-.navigation.active{
-    /* width:4%; */
-}
+
 
 .navigation ul{
     width: 100%;
@@ -315,9 +313,7 @@ body{
 .header-content .btn-sidebar:hover{
     transform :scale(1.5);
 }
-.header-content .btn-sidebar.active{
-        
-}
+
 .header-content .btn-sidebar.active:hover{
      transform: scale(1.5) ;
 }
